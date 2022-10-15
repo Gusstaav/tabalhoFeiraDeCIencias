@@ -14,7 +14,7 @@ h1 {
     font-size: 60px;
     color: whitesmoke;
     padding: 15px;
-    max-width: 47%;
+    max-width: 630px;
     white-space: nowrap;
     overflow: hidden;
     animation: typewriter 2s steps(15),
